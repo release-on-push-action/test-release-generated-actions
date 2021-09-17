@@ -2,3 +2,6 @@
 
 This repository is a fixture for regression testing [rymndhng/release-on-push-action](https://github.com/rymndhng/release-on-push-action)
 
+## Changelog
+
+1. Commit 1
