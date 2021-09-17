@@ -5,3 +5,4 @@ This repository is a fixture for regression testing [rymndhng/release-on-push-ac
 ## Changelog
 
 1. Commit 1
+2. Commit 2
